@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "654128441010",
+    "firebase_url": "https://workshopvschatapp.firebaseio.com",
+    "project_id": "workshopvschatapp",
+    "storage_bucket": "workshopvschatapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:654128441010:android:85be6d14fa2d2ea4",
+        "android_client_info": {
+          "package_name": "com.sakac.vladimir.chatapplication2017"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "654128441010-b7rd2198vnivl8u4ss9rudgrds2l30o8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sakac.vladimir.chatapplication2017",
+            "certificate_hash": "766bfe70ace4ab7830c25330498ae240fb16d3a9"
+          }
+        },
+        {
+          "client_id": "654128441010-bv10cf2fjjbr53dlob0pm7qt7i3op1qn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqMUjGnzA2QiDvi_byw0oe89OpsLuwExM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "654128441010-bv10cf2fjjbr53dlob0pm7qt7i3op1qn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
